@@ -99,7 +99,25 @@ For installing virtual environment on Anaconda Prompt(Windows):
          System shows server like http://127.0.0.1:5000/ and run command on your system, After that web interface will be there and click on let's start button 
   
 ### Note: The project will not work if the version of python is different. And try installing all the dependencies by following the above instructions if it does not work.
- 
+
+## !! IMP SETUP DATABASE BEFORE RUNNING PROGRAM
+###  Install Xampp Control Panel
+     https://www.apachefriends.org/download.html
+After that click on Apache, MySQL then Click on admin of MYSQL, it will open new page (localhost PhpMyAdmin)
+
+### Follow Steps to create database:
+#### a) Click on new , enter the ‘recognition’ database name and enter create
+#### b) After that go to import and chose recognition.sql file from project folder and click go
+#### c) Hence Database created succesfully
+
+## NOW RUN THE PROJECT WITH 
+USERNAME: Admin
+PASSWORD: 123
+
+## EMAIL AUTOMATION:
+ 	Open event_scheduler.py from folder 
+ 	Enter your email id and password at required places and set your time for email automation.
+
 ## MAIN FEATURES OF THE PROJECT
 •	Email Automation
  	Automatically sends day to day attendance report to the manager through an email notification. 
