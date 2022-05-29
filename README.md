@@ -96,7 +96,7 @@ For installing virtual environment on Anaconda Prompt(Windows):
         python attendance_with_antispoofing.py
 
 ##### viii) After that
-         Run http://127.0.0.1:5000/ this command on your system, After that web interface will be there and click on let's start button yo click.
+         System shows server like http://127.0.0.1:5000/ and run command on your system, After that web interface will be there and click on let's start button 
   
 ### Note: The project will not work if the version of python is different. And try installing all the dependencies by following the above instructions if it does not work.
  
