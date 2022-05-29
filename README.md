@@ -20,10 +20,10 @@ APScheduler==3.7.0
 (The code is tested and implemented in 3.6 so install python 3.6)
 
 ### 1. Install Anaconda Prompt
-       [Download_from_here](https://www.anaconda.com/products/distribution)
+    https://www.anaconda.com/products/distribution
 
 ### 2. Install git (if not installed)
-       [Download_from_here](https://git-scm.com/download/win)
+       https://git-scm.com/download/win
        click on 64-bit Git for Windows Setup.
 
 ### 3.  Download the repository on your local computer.
